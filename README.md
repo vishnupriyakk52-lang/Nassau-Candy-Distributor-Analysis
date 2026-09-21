@@ -106,19 +106,21 @@ The Streamlit dashboard supports:
 - `Nassau Candy Distributor Research Paper.pdf` – EDA, findings, and recommendations
 - `Nassau Candy Executive Summary.pdf` – Executive summary of the analysis
 
-### ▶️ How to Run the Streamlit Application
+## ▶️ How to Run the Streamlit Application
 
-Install the required packages:
+### 1. Install the required packages
 
-'```bash'
-py -3.13 -m pip install -r requirements.txt
-Run the application:
+```bash
+pip install -r requirements.txt
+```
 
-py -3.13 -m streamlit run app.py
-'''''
+### 2. Run the application
 
+```bash
+streamlit run app.py
+```
 
-The application will open in a web browser.
+The application will open in your web browser.
 
 ## 📊 Key Results
 
