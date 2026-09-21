@@ -2,6 +2,11 @@
 
 ## Product Line Profitability & Margin Performance Analysis using Excel and Streamlit
 
+## 🚀 Live Dashboard
+
+[Open the Live Streamlit Dashboard](https://feyft59y5cmpzvaq7fjxzh.streamlit.app)
+
+
 ### 📌 Project Overview
 
 This project analyzes the profitability and margin performance of Nassau Candy Distributor using sales, cost, units, gross profit, product, division, and order-date data.
