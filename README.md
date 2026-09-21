@@ -134,10 +134,10 @@ The project includes a Research Paper containing the exploratory data analysis, 
 ## 📊 Dashboard Preview
 
 ### Streamlit Dashboard – Overview
-![Streamlit Dashboard Overview](streamlit-dashboard-overview.jpg.png)
+![Streamlit Dashboard Overview](./streamlit-dashboard-overview.jpg.png)
 
 ### Streamlit Dashboard – Division Performance
-![Streamlit Division Performance](streamlit-division-performance.jpg.png)
+![Streamlit Division Performance](./streamlit-division-performance.jpg.png)
 
 ### Excel Dashboard
-![Excel Dashboard](excel-dashboard.jpg.png)
+![Excel Dashboard](./excel-dashboard.jpg.png)
