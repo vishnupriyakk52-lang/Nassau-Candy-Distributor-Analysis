@@ -131,3 +131,13 @@ Key Results
 Documentation
 
 The project includes a Research Paper containing the exploratory data analysis, key findings, business insights, and recommendations, along with an Executive Summary for stakeholder communication.
+## 📊 Dashboard Preview
+
+### Streamlit Dashboard – Overview
+![Streamlit Dashboard Overview](streamlit-dashboard-overview.jpg.png)
+
+### Streamlit Dashboard – Division Performance
+![Streamlit Division Performance](streamlit-division-performance.jpg.png)
+
+### Excel Dashboard
+![Excel Dashboard](excel-dashboard.jpg.png)
