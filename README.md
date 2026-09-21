@@ -110,15 +110,17 @@ The Streamlit dashboard supports:
 
 Install the required packages:
 
-```bash
+'```bash'
 py -3.13 -m pip install -r requirements.txt
 Run the application:
 
 py -3.13 -m streamlit run app.py
+'''''
+
 
 The application will open in a web browser.
 
-Key Results
+## 📊 Key Results
 
 - Total Sales: $141,783.63
 - Gross Profit: $93,442.80
@@ -128,9 +130,10 @@ Key Results
 - 5 products (33.33% of the portfolio) account for at least 80% of total profit.
 - 5 products (33.33% of the portfolio) account for at least 80% of total revenue.
 
-Documentation
+## 📚 Documentation
 
 The project includes a Research Paper containing the exploratory data analysis, key findings, business insights, and recommendations, along with an Executive Summary for stakeholder communication.
+
 ## 📊 Dashboard Preview
 
 ### Streamlit Dashboard – Overview
